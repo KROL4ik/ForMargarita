@@ -1,0 +1,15 @@
+C:\Users\79068\source\repos\Aniquiz\ForMargarita\ForMargarita\bin\Debug\net7.0\ForMargarita.exe
+C:\Users\79068\source\repos\Aniquiz\ForMargarita\ForMargarita\bin\Debug\net7.0\ForMargarita.deps.json
+C:\Users\79068\source\repos\Aniquiz\ForMargarita\ForMargarita\bin\Debug\net7.0\ForMargarita.runtimeconfig.json
+C:\Users\79068\source\repos\Aniquiz\ForMargarita\ForMargarita\bin\Debug\net7.0\ForMargarita.dll
+C:\Users\79068\source\repos\Aniquiz\ForMargarita\ForMargarita\bin\Debug\net7.0\ForMargarita.pdb
+C:\Users\79068\source\repos\Aniquiz\ForMargarita\ForMargarita\obj\Debug\net7.0\ForMargarita.csproj.AssemblyReference.cache
+C:\Users\79068\source\repos\Aniquiz\ForMargarita\ForMargarita\obj\Debug\net7.0\ForMargarita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79068\source\repos\Aniquiz\ForMargarita\ForMargarita\obj\Debug\net7.0\ForMargarita.AssemblyInfoInputs.cache
+C:\Users\79068\source\repos\Aniquiz\ForMargarita\ForMargarita\obj\Debug\net7.0\ForMargarita.AssemblyInfo.cs
+C:\Users\79068\source\repos\Aniquiz\ForMargarita\ForMargarita\obj\Debug\net7.0\ForMargarita.csproj.CoreCompileInputs.cache
+C:\Users\79068\source\repos\Aniquiz\ForMargarita\ForMargarita\obj\Debug\net7.0\ForMargarita.dll
+C:\Users\79068\source\repos\Aniquiz\ForMargarita\ForMargarita\obj\Debug\net7.0\refint\ForMargarita.dll
+C:\Users\79068\source\repos\Aniquiz\ForMargarita\ForMargarita\obj\Debug\net7.0\ForMargarita.pdb
+C:\Users\79068\source\repos\Aniquiz\ForMargarita\ForMargarita\obj\Debug\net7.0\ForMargarita.genruntimeconfig.cache
+C:\Users\79068\source\repos\Aniquiz\ForMargarita\ForMargarita\obj\Debug\net7.0\ref\ForMargarita.dll
